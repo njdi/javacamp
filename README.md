@@ -9,3 +9,5 @@ Java 实战项目集合，通过 “真实场景 + 示例代码” 的方式，�
 [对象命名](https://zk18b7dx95.feishu.cn/wiki/VJvZwnLRXi1qlZkWc1XcbmpSn5g?from=from_copylink)
 
 [GET/POST 接口接收参数](https://zk18b7dx95.feishu.cn/wiki/P2KKw1EkdiaXMwkhgjScBEi7nvh?from=from_copylink)
+
+[Lombok](https://zk18b7dx95.feishu.cn/wiki/VwOowJGhIiaTqgkdElOchB9znSe?from=from_copylink)
