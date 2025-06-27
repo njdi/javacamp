@@ -6,11 +6,12 @@
 
     <groupId>io.github.njdi</groupId>
     <artifactId>javacamp</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>web</module>
+        <module>domain</module>
     </modules>
 
     <parent>
